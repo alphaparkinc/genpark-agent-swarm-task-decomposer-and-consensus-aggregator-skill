@@ -1,0 +1,8 @@
+{
+  "name": "genpark-agent-swarm-task-decomposer-and-consensus-aggregator-skill",
+  "version": "1.0.0",
+  "description": "Decomposes complex goals into parallel worker subtasks and aggregates consensus outputs",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
