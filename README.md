@@ -1,0 +1,1 @@
+# genpark-agent-swarm-task-decomposer-and-consensus-aggregator-skill\n\nDecomposes complex goals into parallel worker subtasks and aggregates consensus outputs.\n\n100% Python Standard Library implementation with zero external dependencies.
