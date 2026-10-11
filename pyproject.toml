@@ -1,0 +1,1 @@
+[project]\nname = "genpark-agent-swarm-task-decomposer-and-consensus-aggregator-skill"\nversion = "1.0.0"\ndescription = "Decomposes complex goals into parallel worker subtasks and aggregates consensus outputs"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
